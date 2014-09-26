@@ -37,6 +37,7 @@ Change `ingore_users` method to apply your own exclusion or create own other met
 #### User password
 
 By default, script set password as `password` string for all users
+
 To set other password, run
 ```
 php scripts/password-hash.sh 'ANY_OTHER_PASSWORD_STRING'
