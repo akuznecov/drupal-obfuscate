@@ -52,6 +52,6 @@ Add more `cache_` tables with `:truncate` option, if you have any
 
 Add any other tables required obfuscation with `:type` supported by [my_obfuscate](https://github.com/mavenlink/my_obfuscate)
 
-#### LICENSE
+### LICENSE
 
 This work is provided under the MIT License
